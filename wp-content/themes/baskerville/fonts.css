@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'AvenirNextLTPro-MediumCn';
+    src: url('fonts/AvenirNextLTPro-MediumCn.eot') format('eot'),
+         url('fonts/AvenirNextLTPro-MediumCn.woff') format('woff'),
+         url('fonts/AvenirNextLTPro-MediumCn.ttf') format('truetype'),
+         url('fonts/AvenirNextLTPro-MediumCn.svg') format('svg');
+}
+
+@font-face {
+	font-family: 'AvenirNextLTPro-Cn';
+	src: url('fonts/AvenirNextLTPro-Cn.eot') format('eot'),
+         url('fonts/AvenirNextLTPro-Cn.woff') format('woff'),
+         url('fonts/AvenirNextLTPro-Cn.ttf') format('truetype'),
+         url('fonts/AvenirNextLTPro-Cn.svg') format('svg');
+}
+@font-face {
+	font-family: 'AvenirNextLTPro-DemiCn';
+	src: url('fonts/AvenirNextLTPro-DemiCn.eot') format('eot'),
+         url('fonts/AvenirNextLTPro-DemiCn.woff') format('woff'),
+         url('fonts/AvenirNextLTPro-DemiCn.ttf') format('truetype'),
+         url('fonts/AvenirNextLTPro-DemiCn.svg') format('svg');
+}
+@font-face {
+    font-family: 'MyriadPro-Cond';
+    src: url('fonts/MyriadPro-Cond.eot')  format('eot'),
+         url('fonts/MyriadPro-Cond.woff') format('woff'), 
+         url('fonts/MyriadPro-Cond.ttf') format('truetype'), 
+         url('fonts/MyriadPro-Cond.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'myriad_web_proregular';
+    src: url('fonts/myriad-web-pro-webfont.eot');
+    src: url('fonts/myriad-web-pro-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/myriad-web-pro-webfont.woff') format('woff'),
+         url('fonts/myriad-web-pro-webfont.ttf') format('truetype'),
+         url('fonts/myriad-web-pro-webfont.svg#myriad_web_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'myriad_probold_semicondensed';
+    src: url('fonts/myriadpro-boldsemicn1-webfont.eot');
+    src: url('fonts/myriadpro-boldsemicn1-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/myriadpro-boldsemicn1-webfont.woff') format('woff'),
+         url('fonts/myriadpro-boldsemicn1-webfont.ttf') format('truetype'),
+         url('fonts/myriadpro-boldsemicn1-webfont.svg#myriad_probold_semicondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'cartogothic_stdbold';
+    src: url('fonts/cartogothicstd-bold-webfont.eot');
+    src: url('fonts/cartogothicstd-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/cartogothicstd-bold-webfont.woff') format('woff'),
+         url('fonts/cartogothicstd-bold-webfont.ttf') format('truetype'),
+         url('fonts/cartogothicstd-bold-webfont.svg#cartogothic_stdbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cartogothic_stdregular';
+    src: url('fonts/cartogothicstd-book-webfont.eot');
+    src: url('fonts/cartogothicstd-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/cartogothicstd-book-webfont.woff') format('woff'),
+         url('fonts/cartogothicstd-book-webfont.ttf') format('truetype'),
+         url('fonts/cartogothicstd-book-webfont.svg#cartogothic_stdregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sanscondensed_light';
+    src: url('fonts/opensans-condlight-webfont.eot');
+    src: url('fonts/opensans-condlight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/opensans-condlight-webfont.woff') format('woff'),
+         url('fonts/opensans-condlight-webfont.ttf') format('truetype'),
+         url('fonts/opensans-condlight-webfont.svg#open_sanscondensed_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'CenturyGothic';
+	src: url('fonts/CenturyGothic.eot?') format('eot'), 
+	     url('fonts/CenturyGothic.woff') format('woff'), 
+	     url('fonts/CenturyGothic.ttf')  format('truetype'),
+	     url('fonts/CenturyGothic.svg#CenturyGothic') format('svg');
+}
+
+@font-face {
+	font-family: 'CenturyGothic-Bold';
+	src: url('fonts/CenturyGothic-Bold.eot?') format('eot'), 
+	     url('fonts/CenturyGothic-Bold.woff') format('woff'), 
+	     url('fonts/CenturyGothic-Bold.ttf')  format('truetype'),
+	     url('fonts/CenturyGothic-Bold.svg#CenturyGothic-Bold') format('svg');
+}
+
+@font-face {
+	font-family: 'MyriadPro-Cond';
+	src: url('fonts/MyriadPro-Cond.eot') format('eot'), 
+	     url('fonts/MyriadPro-Cond.woff') format('woff'), 
+		 url('fonts/MyriadPro-Cond.ttf') format('truetype'),
+		 url('fonts//MyriadPro-Cond.svg') format('svg');
+}
